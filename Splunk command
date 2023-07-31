@@ -3,4 +3,4 @@
 Comparison and Conditional functions 
 
 case (<condition>, <value>, ...)
-  example rule_name=case(like(rule,"121%") or like (rule,"515$"), "XSS", like (rule,"123%"), "DDOS")
+ - example rule_name=case(like(rule,"121%") or like (rule,"515$"), "XSS", like (rule,"123%"), "DDOS")
